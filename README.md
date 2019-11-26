@@ -1,4 +1,4 @@
-# Sinatra Basic Sessions Lab
+  # Sinatra Basic Sessions Lab
 
 Session cookies allow a website to keep track of your movements and information from page to page for a single session (log in time to log out time). As soon as you log out, the cookie expires and the browser loses the data.
 
